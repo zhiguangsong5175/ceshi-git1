@@ -1,5 +1,5 @@
 public class user {
     public String username;
     public int age;
-    public String adress;
+    public String adress1;
 }
