@@ -3,4 +3,5 @@ public class user {
     public int age;
     public String adress11;
     public String adress111;
+    public String ceshifenzhi;
 }
