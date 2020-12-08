@@ -5,4 +5,6 @@ public class user {
     public String adress111;
     public String ceshifenzhi;
     public String zhufenzhi;
+
+    public String ctzhufenzhi;
 }
