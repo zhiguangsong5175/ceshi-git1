@@ -6,4 +6,6 @@ public class user {
     public String ceshifenzhi;
     public String zhufenzhi;
     public String zhufenzhi1;
+
+    public String ctceshi;
 }
