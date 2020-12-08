@@ -4,4 +4,5 @@ public class user {
     public String adress11;
     public String adress111;
     public String ceshifenzhi;
+    public String zhufenzhi;
 }
