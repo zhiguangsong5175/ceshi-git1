@@ -5,7 +5,7 @@ public class user {
     public String adress111;
     public String ceshifenzhi;
     public String zhufenzhi;
-    public String zhufenzhi1;
+    public String zhufen1zhi1;
 
     public String ctceshi1;
 }
