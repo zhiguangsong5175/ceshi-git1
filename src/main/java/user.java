@@ -7,5 +7,5 @@ public class user {
     public String zhufenzhi;
     public String zhufenzhi1;
 
-    public String ctceshi;
+    public String ctceshi1;
 }
