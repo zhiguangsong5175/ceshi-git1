@@ -10,4 +10,5 @@ public class user {
     public String zhufenzhi1;
 
     public String ctceshi;
+    public String ctceshi1;
 }
